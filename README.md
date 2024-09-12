@@ -11,21 +11,6 @@ This is a **Netflix Clone** project developed as a learning exercise to enhance 
 
 - **HTML5/CSS3**: Structured and styled the application.
 
-## Installation
-
-
-
-### Steps to run locally
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/netflix-clone-frontend.git
-    cd netflix-clone-frontend
-    ```
-
-2. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 ## Challenges and Learning Experience
 
 As a student, building this Netflix Clone helped me understand key concepts in responsive design. I learned how to structure components. It also improved my understanding of CSS for complex layouts.
